@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/NLP.iml" filepath="$PROJECT_DIR$/.idea/NLP.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/123pan/Downloads/code/NLP202505/.idea/NLP202505.iml" filepath="$USER_HOME$/Downloads/123pan/Downloads/code/NLP202505/.idea/NLP202505.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/deepblue/nlp/newcode/.idea/newcode.iml" filepath="$USER_HOME$/Downloads/deepblue/nlp/newcode/.idea/newcode.iml" />
+    </modules>
+  </component>
+</project>
