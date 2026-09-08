@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23b4bf5a-2b85-46e9-9cbd-3ef84601a06f" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3AhZYQsVlny7xkfuaaTjYl2PXl8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python 测试.Python 测试 (sklearn TF-IDF.py 内).executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_Seq2Seq+Attention理解_v0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.123.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BERT_API.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Bert_API.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GPT_API.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GRU理解.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LSTM理解.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RNN理解.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Self-Attention理解.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Seq2Seq+Attention理解.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Seq2Seq理解v0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Seq2Seq理解v1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Seq2Seq理解v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hanlp2.x基本操作.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jieba使用.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.jieba分词理解.executor&quot;: &quot;Run&quot;,
+    &quot;Python.my_TFIDF.executor&quot;: &quot;Run&quot;,
+    &quot;Python.my_transformer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.neo4j基本操作.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new.executor&quot;: &quot;Run&quot;,
+    &quot;Python.py2noe基本操作.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python将csv导入neo4j.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pytorch基本操作.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sklearn TF-IDF.executor&quot;: &quot;Run&quot;,
+    &quot;Python.transformer.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/admin/代码/pythoncode/NLP&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/意图识别训练" />
+      <recent name="$PROJECT_DIR$/transformer学习" />
+      <recent name="$PROJECT_DIR$/Seq2Seq应用" />
+      <recent name="$PROJECT_DIR$/my_project/generate_model/data" />
+      <recent name="$PROJECT_DIR$/my_project/test_classify/src/data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/知识图谱" />
+      <recent name="$PROJECT_DIR$/datas" />
+      <recent name="$PROJECT_DIR$/意图识别训练" />
+      <recent name="$PROJECT_DIR$/模型理解" />
+      <recent name="$PROJECT_DIR$/Seq2Seq应用" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.python将csv导入neo4j">
+    <configuration name="BERT_API" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NLP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/模型理解" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/模型理解/BERT_API.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GPT_API" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NLP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/模型理解" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/模型理解/GPT_API.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="NLP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="neo4j基本操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NLP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/知识图谱" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/知识图谱/neo4j基本操作.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="py2noe基本操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NLP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/知识图谱" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/知识图谱/py2noe基本操作.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python将csv导入neo4j" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NLP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/知识图谱" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/知识图谱/python将csv导入neo4j.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.python将csv导入neo4j" />
+        <item itemvalue="Python.neo4j基本操作" />
+        <item itemvalue="Python.py2noe基本操作" />
+        <item itemvalue="Python.GPT_API" />
+        <item itemvalue="Python.BERT_API" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515" />
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="23b4bf5a-2b85-46e9-9cbd-3ef84601a06f" name="更改" comment="" />
+      <created>1773046810454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773046810454</updated>
+      <workItem from="1773046812067" duration="22042000" />
+      <workItem from="1773197604061" duration="2873000" />
+      <workItem from="1773215362206" duration="7584000" />
+      <workItem from="1773235632878" duration="2809000" />
+      <workItem from="1773286431059" duration="2277000" />
+      <workItem from="1773307292297" duration="1945000" />
+      <workItem from="1773322175526" duration="2285000" />
+      <workItem from="1773370016404" duration="962000" />
+      <workItem from="1773382213657" duration="8017000" />
+      <workItem from="1773390291768" duration="1250000" />
+      <workItem from="1773400404470" duration="731000" />
+      <workItem from="1773473073672" duration="14000" />
+      <workItem from="1773485308373" duration="955000" />
+      <workItem from="1773662259853" duration="5707000" />
+      <workItem from="1773748472035" duration="5814000" />
+      <workItem from="1773817836927" duration="10603000" />
+      <workItem from="1773839733541" duration="951000" />
+      <workItem from="1773840689961" duration="34000" />
+      <workItem from="1773840725955" duration="1983000" />
+      <workItem from="1773926723254" duration="2440000" />
+      <workItem from="1773989464490" duration="5676000" />
+      <workItem from="1774100550246" duration="1250000" />
+      <workItem from="1774267071019" duration="2032000" />
+      <workItem from="1774269115378" duration="4752000" />
+      <workItem from="1774338876168" duration="4828000" />
+      <workItem from="1774442339394" duration="3317000" />
+      <workItem from="1774522102029" duration="7887000" />
+      <workItem from="1774533031639" duration="12000" />
+      <workItem from="1774696230231" duration="4820000" />
+      <workItem from="1774789342730" duration="3592000" />
+      <workItem from="1774876409865" duration="2903000" />
+      <workItem from="1774954680152" duration="8518000" />
+      <workItem from="1775050482103" duration="136000" />
+      <workItem from="1775050620727" duration="60000" />
+      <workItem from="1775050693425" duration="1842000" />
+      <workItem from="1775119156662" duration="1805000" />
+      <workItem from="1775124120230" duration="305000" />
+      <workItem from="1775132439459" duration="6720000" />
+      <workItem from="1775993263867" duration="9183000" />
+      <workItem from="1776083329598" duration="2669000" />
+      <workItem from="1776086020288" duration="650000" />
+      <workItem from="1776086674353" duration="2235000" />
+      <workItem from="1776150180881" duration="3653000" />
+      <workItem from="1776154881115" duration="4867000" />
+      <workItem from="1776173045075" duration="2294000" />
+      <workItem from="1776235172603" duration="11980000" />
+      <workItem from="1776255274079" duration="3357000" />
+      <workItem from="1776669749551" duration="2936000" />
+      <workItem from="1776672696047" duration="6446000" />
+      <workItem from="1776777335536" duration="3409000" />
+      <workItem from="1776862820626" duration="4329000" />
+      <workItem from="1777282371171" duration="8164000" />
+      <workItem from="1777297765434" duration="1407000" />
+      <workItem from="1777361169024" duration="3359000" />
+      <workItem from="1777370047148" duration="2677000" />
+      <workItem from="1777381117032" duration="3826000" />
+      <workItem from="1777520443923" duration="1637000" />
+      <workItem from="1778071679314" duration="2045000" />
+      <workItem from="1778144401566" duration="4027000" />
+      <workItem from="1778158017406" duration="517000" />
+      <workItem from="1778204933863" duration="186000" />
+      <workItem from="1778478285249" duration="882000" />
+      <workItem from="1778579207424" duration="7320000" />
+      <workItem from="1778586841057" duration="2011000" />
+      <workItem from="1778757897155" duration="4144000" />
+      <workItem from="1778832724171" duration="89000" />
+      <workItem from="1779019482384" duration="618000" />
+      <workItem from="1779160525571" duration="8000" />
+      <workItem from="1779160550965" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Downloads/123pan/Downloads/code/NLP202505/code1214/02_LSTM理解.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Downloads/deepblue/nlp/code/code1220/03_Seq2Seq理解_v2.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Downloads/deepblue/nlp/code/code1221/01_Self-Attention理解.py</url>
+          <line>322</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/模型理解/BERT_API.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/模型理解/BERT_API.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Downloads/deepblue/nlp/code/code1228/02_GPT API.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file:///opt/anaconda3/envs/py3.12.11/lib/python3.12/site-packages/py2neo/__init__.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Seq2Seq训练">
+        <watch expression="pred.eq(target.view_as(pred)).sum().item()" language="Jupyter" />
+        <watch expression="output.shape" language="Jupyter" />
+        <watch expression="target.shape" language="Jupyter" />
+        <watch expression="pred.shape" language="Jupyter" />
+        <watch expression="pred.view(-1).shape" language="Jupyter" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NLP$LSTM.coverage" NAME="LSTM理解 覆盖结果" MODIFIED="1773754065856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NLP$py2noe.coverage" NAME="py2noe基本操作 覆盖结果" MODIFIED="1778759405655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识图谱" />
+    <SUITE FILE_PATH="coverage/NLP$Seq2Seqv1.coverage" NAME="Seq2Seq理解v1 覆盖结果" MODIFIED="1774877500066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模型理解" />
+    <SUITE FILE_PATH="coverage/NLP$.coverage" NAME=" 覆盖结果" MODIFIED="1773134545306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NLP$pythoncsvneo4j.coverage" NAME="python将csv导入neo4j 覆盖结果" MODIFIED="1778760290260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识图谱" />
+    <SUITE FILE_PATH="coverage/NLP$neo4j.coverage" NAME="neo4j基本操作 覆盖结果" MODIFIED="1778760036848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识图谱" />
+    <SUITE FILE_PATH="coverage/NLP$Self_Attention.coverage" NAME="Self-Attention理解 覆盖结果" MODIFIED="1776676479583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模型理解" />
+    <SUITE FILE_PATH="coverage/NLP$Seq2Seqv0.coverage" NAME="Seq2Seq理解v0 覆盖结果" MODIFIED="1774877207410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模型理解" />
+    <SUITE FILE_PATH="coverage/NLP$RNN.coverage" NAME="RNN理解 覆盖结果" MODIFIED="1773993503086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NLP$hanlp2_x.coverage" NAME="hanlp2.x基本操作 覆盖结果" MODIFIED="1773665375848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基本操作" />
+    <SUITE FILE_PATH="coverage/NLP$Seq2Seqv2.coverage" NAME="Seq2Seq理解v2 覆盖结果" MODIFIED="1774877516985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模型理解" />
+    <SUITE FILE_PATH="coverage/NLP$BERT_API.coverage" NAME="BERT_API 覆盖结果" MODIFIED="1778584417151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模型理解" />
+    <SUITE FILE_PATH="coverage/NLP$Seq2Seq_Attention.coverage" NAME="Seq2Seq+Attention理解 覆盖结果" MODIFIED="1775119587309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模型理解" />
+    <SUITE FILE_PATH="coverage/NLP$GPT_API.coverage" NAME="GPT_API 覆盖结果" MODIFIED="1778586248370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模型理解" />
+    <SUITE FILE_PATH="coverage/NLP$123.coverage" NAME="123 覆盖结果" MODIFIED="1774522117691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_project/test_classify/src/preprocess" />
+    <SUITE FILE_PATH="coverage/NLP$transformer.coverage" NAME="transformer 覆盖结果" MODIFIED="1777282512153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/NLP$Bert_API.coverage" NAME="Bert_API 覆盖结果" MODIFIED="1776677143098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基本操作" />
+    <SUITE FILE_PATH="coverage/NLP$04_Seq2Seq_Attention_v0.coverage" NAME="04_Seq2Seq+Attention理解_v0 覆盖结果" MODIFIED="1775119599907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/deepblue/nlp/code/code1220" />
+    <SUITE FILE_PATH="coverage/NLP$sklearn_TF_IDF.coverage" NAME="my_TFIDF 覆盖结果" MODIFIED="1773223675973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_jieba" />
+    <SUITE FILE_PATH="coverage/NLP$GRU.coverage" NAME="GRU理解 覆盖结果" MODIFIED="1773754269413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NLP$11.coverage" NAME="jieba使用 覆盖结果" MODIFIED="1773112121963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_jieba" />
+    <SUITE FILE_PATH="coverage/NLP$new.coverage" NAME="new 覆盖结果" MODIFIED="1773217517802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_jieba" />
+    <SUITE FILE_PATH="coverage/NLP$pytorch.coverage" NAME="pytorch基本操作 覆盖结果" MODIFIED="1773664381668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基本操作" />
+    <SUITE FILE_PATH="coverage/NLP$my_transformer.coverage" NAME="my_transformer 覆盖结果" MODIFIED="1777283059137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transformer学习" />
+  </component>
+</project>
